@@ -18,7 +18,7 @@ int main()
     cout << "6 - square root" << endl;
     cin >> action;
 
-    if (action == 1|| action == 2|| action == 3|| action == 4) {
+    if (action < 5) {
         cout << "enter number 1: ";
         cin >> number1;
         cout << "enter number 2: ";

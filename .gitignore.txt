@@ -1,0 +1,7 @@
+*
+!.gitignore
+!main.cpp
+!src/
+!src/**
+!include/
+!include/**
