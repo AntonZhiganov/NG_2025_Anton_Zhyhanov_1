@@ -35,6 +35,8 @@ int main()
         return 0;
     }
 
+    cout << "Result: ";
+
     switch(action){
         case 1:
         cout << number1 + number2 << endl;
